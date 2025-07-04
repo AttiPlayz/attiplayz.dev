@@ -1,5 +1,5 @@
 /*
-  Access-Control-Allow-Origin: https://analytics.attiplayz.dev
+  Access-Control-Allow-Origin: *
   X-Robots-Tag: noindex, nofollow 
   X-Frame-Options: SAMEORIGIN
   Referrer-Policy: same-origin
