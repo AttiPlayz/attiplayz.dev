@@ -1,2 +1,9 @@
-/
+/*
   Access-Control-Allow-Origin: https://analytics.attiplayz.dev
+  X-Robots-Tag: noindex, nofollow 
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: same-origin
+  X-Content-Type-Options: nosniff
+  Content-Security-Policy: default-src *://*attiplayz.dev:*
+  Referrer-Policy: same-origin
+  Permissions-Policy: geolocation=(self "https://attiplayz.dev")
