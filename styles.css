@@ -1,6 +1,6 @@
 body {
     background: #9800AE;
-    background: linear-gradient(90deg, rgba(152, 0, 174, 1) 0%, rgba(0, 255, 238, 1) 100%);
+    background: linear-gradient(to bottom, rgba(152, 0, 174, 1) 0%, rgba(0, 255, 238, 1) 100%) fixed;
 }
 
 h1 {
