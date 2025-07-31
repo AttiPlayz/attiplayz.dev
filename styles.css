@@ -32,7 +32,7 @@ h2 {
 }
 
 .logos {
-    filter: invert(100%) sepia(0%) saturate(7455%) hue-rotate(217deg) brightness(93%) contrast(116%);
+/*    filter: invert(100%) sepia(0%) saturate(7455%) hue-rotate(217deg) brightness(93%) contrast(116%); */
     width: 15px;
 }
 
